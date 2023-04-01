@@ -4,7 +4,6 @@ This is a solution to the [Tip calculator app challenge on Frontend Mentor](http
 
 ## Table of contents
 - [The challenge](#the-challenge)
-- [Screenshot](#screenshot)
 - [Links](#links)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
@@ -21,17 +20,6 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Calculate the correct tip and total cost of the bill per person
 
-### Screenshot
-
-./images/.my-result/Tips calculator - Google Chrome 01_04_2023 5_19_37 pm.png
-
-.images/.my-result/Tips calculator - Google Chrome 01_04_2023 5_20_03 pm.png
-
-./images/.my-result/Tips calculator - Google Chrome 01_04_2023 5_20_38 pm.png
-
-./images/.my-result/Tips calculator - Google Chrome 01_04_2023 5_20_51 pm.png
-
-./images/.my-result/Tips calculator - Google Chrome 01_04_2023 5_21_20 pm.png
 
 
 ### Built with
